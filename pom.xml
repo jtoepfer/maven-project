@@ -61,7 +61,7 @@
 				<version>2.0</version>
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
-					<muleVersion>3.7.3</muleVersion>
+					<muleVersion>${mule.version}</muleVersion>
 					<username>${anypoint.username}</username>
 					<password>${anypoint.password}</password>
 					<workerType>Micro</workerType>
